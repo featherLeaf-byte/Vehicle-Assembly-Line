@@ -1,0 +1,14 @@
+C:\Users\Lusama\Documents\Projects\Vehicle Assembly Line\Vehicle Assemby Line\Vehicle Assemby Line\bin\Debug\netcoreapp3.1\Vehicle Assembly Line.exe
+C:\Users\Lusama\Documents\Projects\Vehicle Assembly Line\Vehicle Assemby Line\Vehicle Assemby Line\bin\Debug\netcoreapp3.1\Vehicle Assembly Line.deps.json
+C:\Users\Lusama\Documents\Projects\Vehicle Assembly Line\Vehicle Assemby Line\Vehicle Assemby Line\bin\Debug\netcoreapp3.1\Vehicle Assembly Line.runtimeconfig.json
+C:\Users\Lusama\Documents\Projects\Vehicle Assembly Line\Vehicle Assemby Line\Vehicle Assemby Line\bin\Debug\netcoreapp3.1\Vehicle Assembly Line.runtimeconfig.dev.json
+C:\Users\Lusama\Documents\Projects\Vehicle Assembly Line\Vehicle Assemby Line\Vehicle Assemby Line\bin\Debug\netcoreapp3.1\Vehicle Assembly Line.dll
+C:\Users\Lusama\Documents\Projects\Vehicle Assembly Line\Vehicle Assemby Line\Vehicle Assemby Line\bin\Debug\netcoreapp3.1\Vehicle Assembly Line.pdb
+C:\Users\Lusama\Documents\Projects\Vehicle Assembly Line\Vehicle Assemby Line\Vehicle Assemby Line\obj\Debug\netcoreapp3.1\Vehicle Assembly Line.csproj.AssemblyReference.cache
+C:\Users\Lusama\Documents\Projects\Vehicle Assembly Line\Vehicle Assemby Line\Vehicle Assemby Line\obj\Debug\netcoreapp3.1\Vehicle Assembly Line.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lusama\Documents\Projects\Vehicle Assembly Line\Vehicle Assemby Line\Vehicle Assemby Line\obj\Debug\netcoreapp3.1\Vehicle Assembly Line.AssemblyInfoInputs.cache
+C:\Users\Lusama\Documents\Projects\Vehicle Assembly Line\Vehicle Assemby Line\Vehicle Assemby Line\obj\Debug\netcoreapp3.1\Vehicle Assembly Line.AssemblyInfo.cs
+C:\Users\Lusama\Documents\Projects\Vehicle Assembly Line\Vehicle Assemby Line\Vehicle Assemby Line\obj\Debug\netcoreapp3.1\Vehicle Assembly Line.csproj.CoreCompileInputs.cache
+C:\Users\Lusama\Documents\Projects\Vehicle Assembly Line\Vehicle Assemby Line\Vehicle Assemby Line\obj\Debug\netcoreapp3.1\Vehicle Assembly Line.dll
+C:\Users\Lusama\Documents\Projects\Vehicle Assembly Line\Vehicle Assemby Line\Vehicle Assemby Line\obj\Debug\netcoreapp3.1\Vehicle Assembly Line.pdb
+C:\Users\Lusama\Documents\Projects\Vehicle Assembly Line\Vehicle Assemby Line\Vehicle Assemby Line\obj\Debug\netcoreapp3.1\Vehicle Assembly Line.genruntimeconfig.cache
